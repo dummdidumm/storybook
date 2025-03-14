@@ -1,3 +1,7 @@
+## 9.0.0-alpha.5
+
+- React: Remove react import in template files - [#30757](https://github.com/storybookjs/storybook/pull/30757), thanks @kasperpeulen!
+
 ## 9.0.0-alpha.4
 
 - Automigrate: Prefer framework import - [#30785](https://github.com/storybookjs/storybook/pull/30785), thanks @ndelangen!
